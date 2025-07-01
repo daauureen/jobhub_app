@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294748210894",
+    "project_id": "jobhub-a831e",
+    "storage_bucket": "jobhub-a831e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294748210894:android:2069cf1e5e03db2224b29f",
+        "android_client_info": {
+          "package_name": "com.example.jobhub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAogpUdOlykDJxOiVuwVE9bIbz6KosD-X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
