@@ -1,4 +1,4 @@
-# jobhub_app
+# jobhub_app (Diploma)
 
 A new Flutter project.
 
